@@ -1,0 +1,22 @@
+export default {
+  welcomeImage: require('../assets/images/welcome-img.png'),
+  iconLogo: require('../assets/images/icon-logo.png'),
+  logo: require('../assets/images/logo.png'),
+  forgetPasswordImage: require('../assets/images/forget-password-image.png'),
+  forgetPasswordImageOTP: require('../assets/images/forgot-password-otp.png'),
+  ResetPasswordImage: require('../assets/images/reset-password-img.png'),
+  MailValidationImage: require('../assets/images/Mail.png'),
+  SelectImage: require('../assets/images/select-image.png'),
+  UnavailableImage: require('../assets/images/unavailable.png'),
+  folderImage: require('../assets/images/folder.png'),
+  caloriesImage: require('../assets/images/calories.png'),
+  legs: require('../assets/images/legs.jpg'),
+  cardio: require('../assets/images/cardio.jpg'),
+  abs: require('../assets/images/abs.jpg'),
+  biceps: require('../assets/images/biceps.jpg'),
+  triceps: require('../assets/images/triceps.jpg'),
+  epaule: require('../assets/images/epaule.jpg'),
+  poitrine: require('../assets/images/poitrine.jpg'),
+  dos: require('../assets/images/dos.jpg'),
+  plus: require('../assets/images/plus.png')
+};
